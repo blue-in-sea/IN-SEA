@@ -1,3 +1,11 @@
-1. Test Case Coverage 
-2. Coding Style
-3. Java Common APIs
+More Works:
+Test Case Coverage 
+Coding Style
+Java Common APIs
+Voice Memo 
+
+Mindset
+- Readability 
+- Maintainablity
+- Testability
+- etc.
