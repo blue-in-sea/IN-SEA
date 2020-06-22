@@ -1,5 +1,4 @@
-## Syllabus
-### Class 01 Binary Search
+### Class1 - Binary Search
 
 
 
