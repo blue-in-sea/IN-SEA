@@ -21,7 +21,7 @@ Two pointer
     Followup: find number of pairs that sums to target 
     (ASC / Duplicated Values Input Array)
  7. Find closest sum to target from two sorted arrays
- 8. Rainbow Sort
+ 8. Rainbow sort
     Followup: k 种颜色
  9. Longest SubString Without Repeating Characters 
  10. Sliding Window Maximum
