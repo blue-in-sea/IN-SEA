@@ -1,0 +1,33 @@
+Binary Search
+ 1. First Occurrence 
+ 2. Search In Unknown Sized Sorted Array
+ 3. K Closest In Sorted Array
+ 4. Search Shifted Sorted Array I
+ 5. Search Shifted Sorted Array II
+ HW1 Smallest Element Larger Than Target
+ HW2 Find In Moutain Array
+
+Linked List
+ 1. Check If Linked List Has A Cycle
+ 2. Cycle Node In Linked List
+ 
+Two pointer 
+[同向双指针] sliding window, fast-slow pointers  
+[逆向双指针] 中心开花, 两边往中间走
+ 3. Longest SubArray Contains Only 1
+ 4. 2 Sum 
+ 5. 2 Sum Smaller
+ 6. 2 Sum Closest 
+    Followup: find number of pairs that sums to target 
+    (ASC / Duplicated Values Input Array)
+ 7. Find closest sum to target from two sorted arrays
+ 8. Rainbow Sort
+    Followup: k 种颜色
+ 9. Longest SubString Without Repeating Characters 
+ 10. Sliding Window Maximum
+ 11. Sliding Window Median 
+     Followup: sum / average / product
+ 12. Minimum Window Substring 
+ 13. Max Water Trapped I 
+ 
+ 
