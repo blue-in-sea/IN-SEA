@@ -1,4 +1,4 @@
 
 
-# other reading
+### Reading
 [Data Eng Weekly](https://dataengweekly.substack.com/)
