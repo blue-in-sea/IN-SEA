@@ -1,3 +1,6 @@
+## Syllabus
+### Class 01 Binary Search
+
 
 
 ### Reading
