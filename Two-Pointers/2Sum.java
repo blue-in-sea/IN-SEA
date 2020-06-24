@@ -1,11 +1,48 @@
-// sol-1: use hashset to store seen value
+// sol-1: use HashSet to store seen value
 //        for a curr_value
 //        check if we've seen (target - curr_value) 
 // Time: O(n), Space: O(n)
 
 // sol-2: use two-pointers 
-public class 2Sum {
+//        check for all unique pairs (brutal force) -> O(n^2)    
+//        sorted and search -> O(nlogn + n)
 
+public class 2Sum {
+    // Method 1: brutal force 
+    // Time: O(n^2), Space: O(1)
+    public boolean existSum(int[] array, int target) {
+        for (int i = 0; i < array.length - 1; i++)  {
+            for (int j = i + 1; j < array.length; j++) {
+                if (array[i] + array[j] == target) return true;
+            }
+        }
+        return false;
+    }
+
+    // Method 2: two pointers (space optimized if unsorted)
+    public boolean existSum(int[] array, int target) {
+        // Assume the given array is not null, and has length at leaste 2
+        Arrays.sort(array);
+        
+        int i = 0, j = array.length - 1;
+        while (i < j) {
+            if (array[i] + array[j] == target) return true;
+            else if (array[i] + array[j] < target) i++;
+            else j--;
+        }
+        return false;
+    }
+    
+    // Method 3: use HashSet to store seen value, and check for its complement
+    public boolean existSum(int[] array) {
+        Set<Integer> seen = new HashSet<>();
+        
+        for (int num : array) {
+            if (seen.contains(target - num)) return true;
+            seen.add(num);
+        }
+        return false;
+    }
 }
 
 /*
@@ -29,6 +66,3 @@ public class 2Sum {
 从右上角出发，拿 6 与 target 比较，可以知道是淘汰第一行，或者最后一行
 --> Time: O(n) where n is # row/col or length of array
 */
-
-
-
