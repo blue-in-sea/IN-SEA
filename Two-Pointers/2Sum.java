@@ -20,6 +20,7 @@ public class 2Sum {
     }
 
     // Method 2: two pointers (space optimized if unsorted)
+    // Time: O(nlogn + n), Space: O(1) for heap_sort 
     public boolean existSum(int[] array, int target) {
         // Assume the given array is not null, and has length at leaste 2
         Arrays.sort(array);
@@ -34,6 +35,7 @@ public class 2Sum {
     }
     
     // Method 3: use HashSet to store seen value, and check for its complement
+    // Time: O(n), Space: O(n) (time optimized)
     public boolean existSum(int[] array) {
         Set<Integer> seen = new HashSet<>();
         
