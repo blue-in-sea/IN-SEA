@@ -29,5 +29,7 @@ Two pointer
      Followup: sum / average / product
  12. Minimum Window Substring 
  13. Max Water Trapped I 
+ PC1 3 Sum Closest
+ PC2 3 Sum All Triples with Duplication
  
  
