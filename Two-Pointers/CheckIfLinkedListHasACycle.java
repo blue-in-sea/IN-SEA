@@ -1,10 +1,13 @@
-class ListNode {
-    int value;
-    ListNode next;
-    public ListNode (int value) {
-        this.value = value;
-    }
-}
+/**
+ * class ListNode {
+ *   public int value;
+ *   public ListNode next;
+ *   public ListNode(int value) {
+ *     this.value = value;
+ *     next = null;
+ *   }
+ * }
+ */
 
 public class CheckIfLinkedListHasACycle {
     public boolean hasCycle(ListNode head) {
