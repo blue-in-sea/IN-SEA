@@ -10,6 +10,8 @@
  */
 
 public class CheckIfLinkedListHasACycle {
+    // Time: O(3/2 n) -> O(n)
+    // Space: O(1)
     public boolean hasCycle(ListNode head) {
         if (head == null) {
             return false;
