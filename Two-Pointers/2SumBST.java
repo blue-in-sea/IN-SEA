@@ -34,4 +34,17 @@ public class 2SumBST {
         arr.add(root.val);
         inorder(root.right, arr);
     }
+    
+    // 2 Sum: for-loop version
+    public boolean findTarget(TreeNode root, int k) {
+        List<Integer> arr = new ArrayList<>();
+        inorder(root, arr);
+
+        for(int i = 0, j = arr.size() - 1; i < j;){
+            if(arr.get(i) + arr.get(j) == k) return true;
+            if(arr.get(i) + arr.get(j) < k)i++;
+            else j--;
+        }
+        return false;
+    }
 }
