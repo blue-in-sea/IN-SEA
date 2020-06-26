@@ -13,14 +13,14 @@ public class 2SumTwoArrays {
             int sum = A[l] + B[r];
             if (sum == target) {
                 return true;
-                }
-      if (sum < target) {
-        l++;
-      } else {
-        r--;
-      }
-    }
+            }
+            if (sum < target) {
+                l++;
+            } else {
+                r--;
+            }
+        }
 
-    return false;
-  }
+        return false;
+    }
 }
