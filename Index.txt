@@ -1,35 +1,46 @@
-Binary Search
- 1. First Occurrence 
- 2. Search In Unknown Sized Sorted Array
- 3. K Closest In Sorted Array
- 4. Search Shifted Sorted Array I
- 5. Search Shifted Sorted Array II
+Class 1 - Binary Search
+ Q1 First Occurrence 
+ Q2 Search In Unknown Sized Sorted Array
+ Q3 K Closest In Sorted Array
+ Q4 Search Shifted Sorted Array I
+ Q5 Search Shifted Sorted Array II
  HW1 Smallest Element Larger Than Target
  HW2 Find In Moutain Array
 
-Linked List
- 1. Check If Linked List Has A Cycle
- 2. Cycle Node In Linked List
+Class 2 - Linked List
+ Q1 Check If Linked List Has A Cycle
+ Q2 Cycle Node In Linked List
  
-Two pointer 
+Class 2 - Two pointer 
 [同向双指针] sliding window, fast-slow pointers  
 [逆向双指针] 中心开花, 两边往中间走
- 3. Longest SubArray Contains Only 1
- 4. 2 Sum 
- 5. 2 Sum Smaller
- 6. 2 Sum Closest 
+ Q3 Longest SubArray Contains Only 1
+ Q4 2 Sum 
+ Q5 2 Sum Smaller
+ Q6 2 Sum Closest 
     Followup: find number of pairs that sums to target 
     (ASC / Duplicated Values Input Array)
- 7. Find closest sum to target from two sorted arrays
- 8. Rainbow sort
+ Q7 Find closest sum to target from two sorted arrays
+ Q8 Rainbow sort
     Followup: k 种颜色
- 9. Longest SubString Without Repeating Characters 
- 10. Sliding Window Maximum
- 11. Sliding Window Median 
+ Q9 Longest SubString Without Repeating Characters 
+ Q10 Sliding Window Maximum
+ Q11 Sliding Window Median 
      Followup: sum / average / product
- 12. Minimum Window Substring 
- 13. Max Water Trapped I 
+ Q12 Minimum Window Substring 
+ Q13 Max Water Trapped I 
  PC1 3 Sum Closest
  PC2 3 Sum All Triples with Duplication
+ 
+Class 6 - Probability & Sampling & Randomizations 
+ Q1 Array Shuffling 
+ Q2 Reservoir Sampling
+ Q3 Reservoir Sampling
+ Q4 Generalized Reservoir Sampling
+ Q5 Random7() Using Random5()
+ Q6 Random1000() Using Random5() 
+ Q7 Median Tracker 
+ Q8 95 Percentile
+ 
  
  
