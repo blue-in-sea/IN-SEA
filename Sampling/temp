@@ -1,4 +1,0 @@
-  // Find the minimum L such that at leaste 95% * n of the URLs
-  // have the length <= L
-  // Goal：找到最小的 L 使得小于和等于 L 是 95 % 
-  // 初始化 if no element, L = 0  >= 0 * 0.95 
