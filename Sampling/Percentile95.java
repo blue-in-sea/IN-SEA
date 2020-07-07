@@ -1,8 +1,7 @@
 public class Percentile95 {
-    /**
-     * Method-1: Find the maximum L such that at leaste 5% * n
-     * of the URLs have the length >= L
-     */
+    // Method-1: 从右往左 [.... L || .. 5% ..]
+    // 物理意义: Find the maximum L such that at leaste 5% * n of the URLs have the length >= L
+    
     public int percentile95(List<Integer> lengths) {
         // Assume input list is not null and has size >= 1 without any null values
         // The length of possible longest URL is 4096
@@ -21,4 +20,6 @@ public class Percentile95 {
         }
         return len;
     }
+    
+    // 
 }
