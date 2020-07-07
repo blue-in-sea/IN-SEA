@@ -48,7 +48,7 @@ public class Percentile95 {
 }
 
 /**
- * 在方法 2 里
+ * [在方法 2 里]
  * while (sum <= 0.95 * lengths.size()) {
  *      sum += count[len];
  *      len++;
@@ -58,7 +58,7 @@ public class Percentile95 {
  * output: 97
  * expected:<96> but was:<97>
  *
- * 在方法 2 里
+ * [在方法 2 里]
  * while (sum <= 0.95 * lengths.size()) {
  *      len++;
  *      sum += count[len];
