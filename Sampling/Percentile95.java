@@ -1,3 +1,10 @@
+/**
+ * Define 95 Percentile: if we have 100 students taking a exam, the 95 percentile
+ * of the score will be defined as: a score that is 
+ * 1) 使得小于等于这个分数的人至少有95个
+ * 2) 而且小于这个分数的人不到95个
+ */
+
 public class Percentile95 {
     // Method-1: 从右往左 [.... L || .. 5% ..]
     // 物理意义: Find the maximum L such that at leaste 5% * n of the URLs have the length >= L
