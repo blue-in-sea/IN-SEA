@@ -11,7 +11,7 @@ HW2 [Find the Target in Mountain Array](https://dataengweekly.substack.com/) <br
 
 ## Two Pointers
 ### Linked List Application <br/>
-Q1 [Check If Linked List Has A Cycle](https://dataengweekly.substack.com/) <br/>
+Q1 [Check If Linked List Has A Cycle](https://github.com/iris-in-sea/IN-SEA/blob/master/Two-Pointers/CheckIfLinkedListHasACycle.java) <br/>
 Q2 [Cycle Node In Linked List](https://dataengweekly.substack.com/) <br/>
 
 ### Essence of two-pointers in 2 Sum: search in sorted matrix
