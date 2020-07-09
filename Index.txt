@@ -32,6 +32,26 @@ Class 2 - Two pointer
  PC1 3 Sum Closest
  PC2 3 Sum All Triples with Duplication
  
+ 
+Class 5 - Graph + DFS & Backtracking 
+ Q1 All Subsets I 
+ Q2 All Subsets II 
+ Q3 All Subsets II with size K 
+ Q4 Combinations of Coins 
+ Q5 Factor Combinations 
+ Q6 Keep Distance For Identical Elements 
+ 
+ [Graph DFS Overview]
+ Q7 Deep Copy Undirectedgraph 
+ Q8 Number of Connected Components in an Undirected Graph 
+ Q9 Graph Valid Tree
+ Q10 Redundant Connection
+ Q11 Course Schedule 
+ Q12 Reconstruct Itinerary 
+ 
+ DFS / Backtracking Summary 
+ Graph 总结
+ 
 Class 6 - Probability & Sampling & Randomizations 
  Q1 Array Shuffling 
  Q2 Reservoir Sampling
