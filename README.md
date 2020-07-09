@@ -34,14 +34,13 @@ Q10 [Max Water Trapped I](https://www.google.com/) <br/>
 ## Iterator & Singleton
 
 ## Probability & Sampling & Randomizations 
- Q1 Array Shuffling (https://www.google.com/) <br/>
- Q2 Reservoir Sampling (https://www.google.com/) <br/>
- Q3 Reservoir Sampling (https://www.google.com/) <br/>
- Q4 Generalized Reservoir Sampling (https://www.google.com/) <br/>
- Q5 Random7() Using Random5() (https://www.google.com/) <br/>
- Q6 Random1000() Using Random5() (https://www.google.com/) <br/>
- Q7 Median Tracker (https://www.google.com/) <br/>
- Q8 95 Percentile (https://www.google.com/) <br/>
+Q1 [Array Shuffling](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/ArrayShuffling.java) <br/>
+Q2 [Reservoir Sampling](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/ReservoirSampling.java) <br/>
+Q3 [Generalized Reservoir Sampling](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/GeneralizedReservoirSampling.java) <br/>
+Q4 [Random7() Using Random5()](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/Random7UsingRandom5.java) <br/>
+Q6 [Random1000() Using Random5()](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/Random1000UsingRandom5.java) <br/>
+Q6 [Median Finder](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/MedianFinder.java) <br/>
+Q7 [95 Percentile](https://github.com/iris-in-sea/IN-SEA/blob/master/Sampling/Percentile95.java) <br/>
 
 ## Reading
 [Data Eng Weekly](https://www.google.com/)
