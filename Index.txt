@@ -1,3 +1,4 @@
+==========================================================
 Class 1 - Binary Search
  Q1 First Occurrence 
  Q2 Search In Unknown Sized Sorted Array
@@ -10,7 +11,8 @@ Class 1 - Binary Search
 Class 2 - Linked List
  Q1 Check If Linked List Has A Cycle
  Q2 Cycle Node In Linked List
- 
+
+==========================================================
 Class 2 - Two pointer 
 [同向双指针] sliding window, fast-slow pointers  
 [逆向双指针] 中心开花, 两边往中间走
@@ -31,8 +33,49 @@ Class 2 - Two pointer
  Q13 Max Water Trapped I 
  PC1 3 Sum Closest
  PC2 3 Sum All Triples with Duplication
- 
- 
+
+==========================================================
+Class 3 - Iterator & Singleton
+ Iterator 
+ - Intent & Motivation
+ - Iterators in Java
+ - Iterator & for-each Loop
+ - Iterable in Java
+ - Iterators in C++
+ - Iterators in Python
+ - Iterators for Interview 
+ Q1 Flatten 2D Vector 
+ 两种实现的思路: hasNext() requires next element or next() requires next element
+ Q2 Peeking Iterator 
+ Q3 Zigzag Iterator 
+ Q4 Flatten Nested List Iterator 
+ Q5 Binary Search Tree Iterator 
+ Q6 Iterator for Combination 
+ Iterator 总结
+
+==========================================================
+Class 4 - Tree & BST 
+ Tree's definitions
+ Tree's Representations 
+ Rooted Binary Tree 
+ Binary Search Tree
+ Q1 Determine if a binary tree is balanced 
+ Q2 Binary Tree Inorder Traversal
+ Q3 Binary Tree Preorder Traversal 
+ Q4 Binary Tree Postorder Traversal
+ Q5 Level Order Traversal of a Binary Tree
+ Q6 Border View of Binary Tree
+ Q7 Binary Tree Longest Consecutive Sequence 
+ Q8 Is BST
+ Q9 Inorder Successor in BST 
+ Q10 In a BST, find node with closest value to the target 
+ Q11 Largest number smaller than target 
+ Q12 Two Sums in BST
+ Q13 K-Closest Element in BST
+ Q14 Reconstruct BST from preorder / level-order / postorder 
+ summary 
+
+==========================================================
 Class 5 - Graph + DFS & Backtracking 
  Q1 All Subsets I 
  Q2 All Subsets II 
@@ -51,7 +94,8 @@ Class 5 - Graph + DFS & Backtracking
  
  DFS / Backtracking Summary 
  Graph 总结
- 
+
+==========================================================
 Class 6 - Probability & Sampling & Randomizations 
  Q1 Array Shuffling 
  Q2 Reservoir Sampling
@@ -61,6 +105,8 @@ Class 6 - Probability & Sampling & Randomizations
  Q6 Random1000() Using Random5() 
  Q7 Median Tracker 
  Q8 95 Percentile
+ 
+ ==========================================================
  
  
  
