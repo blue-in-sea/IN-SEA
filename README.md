@@ -1,6 +1,6 @@
 ### Binary Search
-Principle of binary search <br/>
-While-loop condition & search rule <br/>
+> Principle of binary search <br/>
+> While-loop condition & search rule <br/>
 Q1 [First Occurrence](https://dataengweekly.substack.com/) <br/>
 Q2 [Search in Unknow Sized Sorted Array](https://dataengweekly.substack.com/) <br/>
 Q3 [K Closest In Sorted Array](https://dataengweekly.substack.com/) <br/>
