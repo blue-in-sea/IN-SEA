@@ -33,5 +33,15 @@ Q10 [Max Water Trapped I](https://www.google.com/) <br/>
 
 ## Iterator & Singleton
 
+## Probability & Sampling & Randomizations 
+ Q1 Array Shuffling (https://www.google.com/) <br/>
+ Q2 Reservoir Sampling (https://www.google.com/) <br/>
+ Q3 Reservoir Sampling (https://www.google.com/) <br/>
+ Q4 Generalized Reservoir Sampling (https://www.google.com/) <br/>
+ Q5 Random7() Using Random5() (https://www.google.com/) <br/>
+ Q6 Random1000() Using Random5() (https://www.google.com/) <br/>
+ Q7 Median Tracker (https://www.google.com/) <br/>
+ Q8 95 Percentile (https://www.google.com/) <br/>
+
 ## Reading
 [Data Eng Weekly](https://www.google.com/)
