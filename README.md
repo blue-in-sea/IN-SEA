@@ -19,7 +19,16 @@ Q3 [Longest Subarray Contains Only 1s](https://dataengweekly.substack.com/) <br/
 Q4 [2 Sum](https://dataengweekly.substack.com/) <br/>
 Q5 [2 Sum Smaller](https://dataengweekly.substack.com/) <br/>
 Q6 [2 Sum Closest](https://dataengweekly.substack.com/) <br/>
-
+Follow-up [Find Number of Pairs that Sums to Target](https://dataengweekly.substack.com/) <br/>
+Q7 [Find Closest Sum Target from Two Sorted Arrays](https://dataengweekly.substack.com/) <br/>
+Q8 [Rainbow Sort](https://dataengweekly.substack.com/) <br/>
+Follow-up [Rainbow Sort K Colors](https://dataengweekly.substack.com/) <br/>
+Q9 [Longest Substring Without Repeating Characters](https://dataengweekly.substack.com/) <br/>
+Q10 [Siliding Window Maximum](https://dataengweekly.substack.com/) <br/>
+Q10 [Siliding Window Median](https://dataengweekly.substack.com/) <br/>
+Follow-up [Sum / Average / Product](https://dataengweekly.substack.com/) <br/>
+Q10 [Minimum Window Substring](https://dataengweekly.substack.com/) <br/>
+Q10 [Max Water Trapped I](https://dataengweekly.substack.com/) <br/>
 
 
 ## Iterator & Singleton
