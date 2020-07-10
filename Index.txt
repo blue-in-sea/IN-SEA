@@ -105,7 +105,40 @@ Class 6 - Probability & Sampling & Randomizations
  Q6 Median Tracker 
  Q7 95 Percentile
  
- ==========================================================
+===========================================================
  
+Class 7 - Dynamic Programming
+ DP 本质：用空间优化时间
+ DP 实现: top down vs. bottom up
+ Q1 Paint House 
+ Q2 Paint House II 
+ Q3 Paint Fence 
+ Q4 Largest Ascending SubArray 
+ Q5 Largest Ascending SubSequence 
+ Q6 Max Product of Cutting Rope 
+ Q7 Can I Win I
+ Q8 Can I Win II 
+ Q9 Coin Change II (number of combinations)
+ Q10 Cut Wood I 
+ HW1 Coin Change (fewest coins need)
+ HW2 Largest SubArray Sum
+ ---
+ HW3 Longest Consecutive 1s 
+ HW4 Largest Submatrix with 1s 
+ HW5 Edit Distance 
+ HW6 Regular Expression Matching 
+  
+===========================================================
  
+Class 8 - Trie and Sweep Line 
+ LC 303 Range Sum Query - Immutable 
+ LC 307 Range Sum Query - Mutable 
+ LC 304 Range Sum Query 2D - Immutable 
+ LC 308 Range Sum Query 2D - Mutable 
+ ---
+ LC 218 The Skyline Problem 
+ LC 253 / LN 919 Meeting Room 
+ LC 729 My Calendar I 
+ LC 731 My Calendar II
+ LC 315 Count Of Smaller Numbers After Self
  
