@@ -99,12 +99,11 @@ Class 5 - Graph + DFS & Backtracking
 Class 6 - Probability & Sampling & Randomizations 
  Q1 Array Shuffling 
  Q2 Reservoir Sampling
- Q3 Reservoir Sampling
- Q4 Generalized Reservoir Sampling
- Q5 Random7() Using Random5()
- Q6 Random1000() Using Random5() 
- Q7 Median Tracker 
- Q8 95 Percentile
+ Q3 Generalized Reservoir Sampling
+ Q4 Random7() Using Random5()
+ Q5 Random1000() Using Random5() 
+ Q6 Median Tracker 
+ Q7 95 Percentile
  
  ==========================================================
  
