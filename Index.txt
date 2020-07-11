@@ -105,9 +105,34 @@ Class 6 - Probability & Sampling & Randomizations
  Q6 Median Tracker 
  Q7 95 Percentile
  
+==========================================================
+Class 7 - BFS + Topological Sort 
+BFS 
+ Q1 Minimum Depth of Binary Tree 
+ Q2 Is Graph Bipartite 
+ Q3 Open the Lock 
+ Q4 Maze I 
+ 
+Topological Sort (Based on BFS1)
+ Q5 Course Schedule 
+ Q6 Course Schedule II 
+ Q7 Alien Dictionary 
+ 
+Dijkstra (BFS2)
+ Q8 Maze II
+ Q9 Maze III 
+ Q10 Kth Smallest Element In A Sorted Matrix 
+ Q11 Cheapest Flights Within K Stops 
+ Q12 Network Delay Time
+ 
+BFS Reconstruct Shortest Path 
+ Q13 Word Ladder I 
+ Q14 Word Ladder II 
+ Q15 Tree Diameter 
+ 
 ===========================================================
  
-Class 7 - Dynamic Programming
+Class 8 - Dynamic Programming
  DP 本质：用空间优化时间
  DP 实现: top down vs. bottom up
  Q1 Paint House 
@@ -130,7 +155,7 @@ Class 7 - Dynamic Programming
   
 ===========================================================
  
-Class 8 - Trie and Sweep Line 
+Class 9 - Trie and Sweep Line 
  LC 303 Range Sum Query - Immutable 
  LC 307 Range Sum Query - Mutable 
  LC 304 Range Sum Query 2D - Immutable 
