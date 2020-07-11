@@ -1,4 +1,4 @@
-class Solution {
+class CountOfSmallerNumbersAfterSelfMergeSort {
     public List<Integer> countSmaller(int[] nums) {
         int[] res = new int[nums.length];
         int[] index = new int[res.length];
