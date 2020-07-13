@@ -1,4 +1,5 @@
 ==========================================================
+
 Class 1 - Binary Search
  Q1 First Occurrence 
  Q2 Search In Unknown Sized Sorted Array
@@ -13,6 +14,7 @@ Class 2 - Linked List
  Q2 Cycle Node In Linked List
 
 ==========================================================
+
 Class 2 - Two pointer 
 [同向双指针] sliding window, fast-slow pointers  
 [逆向双指针] 中心开花, 两边往中间走
@@ -35,6 +37,7 @@ Class 2 - Two pointer
  PC2 3 Sum All Triples with Duplication
 
 ==========================================================
+
 Class 3 - Iterator & Singleton
  Iterator 
  - Intent & Motivation
@@ -54,6 +57,7 @@ Class 3 - Iterator & Singleton
  Iterator 总结
 
 ==========================================================
+
 Class 4 - Tree & BST 
  Tree's definitions
  Tree's Representations 
@@ -96,6 +100,7 @@ Class 5 - Graph + DFS & Backtracking
  Graph 总结
 
 ==========================================================
+
 Class 6 - Probability & Sampling & Randomizations 
  Q1 Array Shuffling 
  Q2 Reservoir Sampling
@@ -106,6 +111,7 @@ Class 6 - Probability & Sampling & Randomizations
  Q7 95 Percentile
  
 ==========================================================
+
 Class 7 - BFS + Topological Sort 
 BFS 
  Q1 Minimum Depth of Binary Tree 
