@@ -166,6 +166,7 @@ Class 9 - Trie and Sweep Line
  LC 307 Range Sum Query - Mutable 
  LC 304 Range Sum Query 2D - Immutable 
  LC 308 Range Sum Query 2D - Mutable 
+ 
  ---
  LC 218 The Skyline Problem 
  LC 253 / LN 919 Meeting Room 
