@@ -138,7 +138,7 @@ BFS Reconstruct Shortest Path
  
 ===========================================================
  
-Class 8 - Dynamic Programming
+Class 8 - Dynamic Programming [VOID]
  DP 本质：用空间优化时间
  DP 实现: top down vs. bottom up
  Q1 Paint House 
@@ -161,7 +161,41 @@ Class 8 - Dynamic Programming
   
 ===========================================================
  
-Class 9 - Trie and Sweep Line 
+Class 8 - Dynamic Programming I
+ DP 定义
+ DP 实现: top down vs. bottom up
+    - 对比
+ DP 定义总结和实现
+ 四个步骤：从抽象的题解步骤到代码
+    Fibonacci Sequence 
+    Time Complexity in DP
+ Q1 Longest Ascending SubArray
+ Q2 Longest Ascending SubSequence 
+ Q3 Max Product of Cutting Rope 
+    Followup: instead of at least 1 cut, how about at least k cuts?
+ Q4 Longest Palindromic Substring
+ Q5 Decode Ways 
+ 
+Class 9 - Dynamic Programming II
+ 背包问题定义
+ Q6 Partition Equal Subset Sum 
+ Q7 Coin Change II (Number of Conmbinations)
+ Q8 Target Sum 
+ --
+ Q9 Best Time to Buy and Sell Stock 
+ Q10 Best Time to Buy and Sell Stock II
+ Q11 Best Time to Buy and Sell Stock III
+ Q12 Best Time to Buy and Sell Stock IV
+ Q13 Best Time to Buy and Sell Stock with Cooldown 
+ --
+ Q14 Can I Win I
+ Q15 Can I Win II
+ 区间 dp: Top Down performs better in this case 
+ 石头合并，切木头，扎气球
+ 
+===========================================================
+ 
+Class 10 - Trie and Sweep Line 
  LC 303 Range Sum Query - Immutable 
  LC 307 Range Sum Query - Mutable 
  LC 304 Range Sum Query 2D - Immutable 
