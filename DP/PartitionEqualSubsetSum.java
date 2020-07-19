@@ -1,4 +1,4 @@
-class PartitionEqualSubsetSum {
+public class PartitionEqualSubsetSum {
     public boolean canPartition(int[] nums) {
         int sum = 0; 
         for (int num : nums) {
