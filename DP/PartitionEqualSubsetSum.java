@@ -1,4 +1,5 @@
 public class PartitionEqualSubsetSum {
+    // M1: DFS
     public boolean canPartition(int[] nums) {
         int sum = 0; 
         for (int num : nums) {
@@ -27,4 +28,44 @@ public class PartitionEqualSubsetSum {
         }
         return dfs(nums, j, target);
     }
+    
+    // M2: DP I
+    public boolean canPartition(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return false;
+        }
+
+        int sum = 0;
+        for (int num : nums) {
+            sum += num;
+        }
+
+        if (sum % 2 != 0) {
+            return false;
+        }
+        int target = sum / 2;
+
+        boolean[][] dp = new boolean[nums.length][target + 1];
+
+        for (int i = 0; i < dp.length; i++) {
+            for (int j = 0; j <= target; j++) {
+                if (i == 0 && j > 0) {
+                    dp[i][j] = nums[i] == j;
+                } else if (j == 0) {
+                    dp[i][j] = true;
+                } else {
+                    // 不放
+                    dp[i][j] = dp[i - 1][j];
+                    // 放
+                    if (j - nums[i] >= 0) {
+                        dp[i][j] = dp[i][j] || dp[i - 1][j - nums[i]];
+                    }
+                }
+            }
+        }
+
+        return dp[nums.length - 1][target];
+    }
+    
+    // M3: DP II
 }
