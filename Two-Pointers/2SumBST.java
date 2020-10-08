@@ -4,6 +4,17 @@
  */
 
 public class 2SumBST {
+    // BST Iterator 
+    // Step 1
+    // we have 1st iterator to iterate the BST from left to right
+    // we have 2nd iterator to iterate the BST from right to left
+    // Step 2
+    // if (input[L] + input[R] > target) iterator.next2()
+    // if (input[L] + input[R] < target) iterator.next1()
+    public boolean findTarget(TreeNode root, int k) {
+        
+    }
+    
     // inorder traversal convert the BST into a sorted list (ascending) 
     // + two pointer (i, j) begins from the start and end (a 2-sum way)
     // Time: O(n), Space O(h + n) => O(n)
